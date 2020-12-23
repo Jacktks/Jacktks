@@ -1,16 +1,18 @@
-### Hi there 👋
+![Easy Frontend banner](https://cdn.acodez.in/wp-content/uploads/2018/05/Banner-image-4.png)
 
-<!--
-**Jacktks/Jacktks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Nguyen Van Tri - Front-end Development
 
-Here are some ideas to get you started:
+- Open and friendly.
+- Love to learn new things, especially things related to Frontend stacks.
+- Enjoy working with ReactJS ❤
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Working <a href="https://github.com/paulnguyen-mn"><img align="left" width="auto" height="200" src="https://res.cloudinary.com/kimwy/image/upload/v1598840300/easyfrontend/programming_hgngx9.png"></a>
+
+- `Open Education In Sun* Asterisk` at fram^: [https://wearefram.com/](https://wearefram.com/)
+
+## Projects
+
+- Ecommerce Project: https://github.com/Jacktks/React-Redux-Project
+- Metiz Cinema: https://github.com/Jacktks/Metiz-Clone-ReactJS
+- ReactJS Hooks Todo App with API: https://github.com/Jacktks/CRUD-with-context-hooks
+- E-commerce Search Clone: https://github.com/Jacktks/redux-basic ( *** https://community.algolia.com/instantsearch.js/v1/examples/e-commerce/ *** )
