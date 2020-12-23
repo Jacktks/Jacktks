@@ -1,5 +1,3 @@
-(https://cdn.acodez.in/wp-content/uploads/2018/05/Banner-image-4.png)
-
 # Nguyen Van Tri - Front-end
 
 - Open and friendly.
