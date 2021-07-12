@@ -7,6 +7,7 @@
 ## Working <a href="https://github.com/Jacktks"><img align="left" width="auto" height="300" src="https://res.cloudinary.com/kimwy/image/upload/v1598840300/easyfrontend/programming_hgngx9.png"></a>
 
 - `Open Education In Sun* Asterisk`
+- `Working as a developer at Enable Startup`
 
 ## Projects
 
