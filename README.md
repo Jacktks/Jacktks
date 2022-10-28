@@ -2,10 +2,10 @@
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/van-tri-987799183"><img src="https://static-exp1.licdn.com/sc/h/akt4ae504epesldzj74dzred8"/></a>
-<a href="mailto:nguyenvantri1997dxx@gmail.com"><img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico"/></a>
-<a href="https://instagram.com/jacktks.sagittarius"><img src="https://static.cdninstagram.com/rsrc.php/v3/yR/r/lam-fZmwmvn.png"/></a>
-<a href="https://www.facebook.com/jacktks.sagittarius"><img src="https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico"/></a>
+<a href="https://www.linkedin.com/in/van-tri-987799183"><img width="20" height="20" src="https://static-exp1.licdn.com/sc/h/akt4ae504epesldzj74dzred8"/></a>
+<a href="mailto:nguyenvantri1997dxx@gmail.com"><img width="20" height="20" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico"/></a>
+<a href="https://instagram.com/jacktks.sagittarius"><img width="20" height="20" src="https://static.cdninstagram.com/rsrc.php/v3/yR/r/lam-fZmwmvn.png"/></a>
+<a href="https://www.facebook.com/jacktks.sagittarius"><img width="20" height="20" src="https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico"/></a>
 
 ### Languages and Tools:
 
