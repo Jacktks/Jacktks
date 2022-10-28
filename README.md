@@ -2,10 +2,10 @@
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/van-tri-987799183"><img src="https://img.shields.io/badge/-Cuong%20Nguyen%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:nguyenvantri1997dxx@gmail.com"><img src="https://img.shields.io/badge/-nqcuong.dev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/jacktks.sagittarius"><img src="https://img.shields.io/badge/-@nqcuong97-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/jacktks.sagittarius"><img src="https://img.shields.io/badge/-@quoccuong8497-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/van-tri-987799183"><img src="https://static-exp1.licdn.com/sc/h/akt4ae504epesldzj74dzred8"/></a>
+<a href="mailto:nguyenvantri1997dxx@gmail.com"><img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico"/></a>
+<a href="https://instagram.com/jacktks.sagittarius"><img src="https://static.cdninstagram.com/rsrc.php/v3/yR/r/lam-fZmwmvn.png"/></a>
+<a href="https://www.facebook.com/jacktks.sagittarius"><img src="https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico"/></a>
 
 ### Languages and Tools:
 
